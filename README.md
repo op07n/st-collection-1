@@ -8,3 +8,6 @@ Add /proxy/8501/  to the url to see the page.
 
 
 http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/sdman135/Shapes-Image_Classifier_Convolutional_Neural_Network
+
+
+http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/tanayrastogi-repo/Generic_LSTM_Model_Builder
