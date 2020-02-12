@@ -11,3 +11,6 @@ http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?rep
 
 
 http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/tanayrastogi-repo/Generic_LSTM_Model_Builder
+
+
+http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/harrywang/streamlit-churn-analysis
