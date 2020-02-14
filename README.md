@@ -14,3 +14,5 @@ http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?rep
 http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/harrywang/streamlit-churn-analysis
 
 http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/samalanubhab/bcs-bug-app-deploy
+
+http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/MesumRaza/mhemani-diabetes-streamlit
