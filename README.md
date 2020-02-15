@@ -17,4 +17,10 @@ http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?rep
 
 http://binder.pangeo.io/v2/gh/op07n/mygenericbinder2/master?urlpath=git-pull?repo=https://github.com/MesumRaza/mhemani-diabetes-streamlit
 
-http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/othmanefc/ttfl_fantasy
+http://binder.pangeo.io/v2/gh/op07n/mygenericbinder4/master?urlpath=git-pull?repo=https://github.com/othmanefc/ttfl_fantasy
+
+http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/daniellonghi/streamlit-ml
+
+http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/ianxxiao/simulation
+
+
