@@ -25,4 +25,7 @@ http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?rep
 
 http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/mollac/corona
 
+http://binder.pangeo.io/v2/gh/op07n/mygenericbinder2/master?urlpath=git-pull?repo=https://github.com/jlshen2011/streamlit-zillow
+
+
 
