@@ -33,6 +33,9 @@ http://binder.pangeo.io/v2/gh/op07n/mygenericbinder6/master?urlpath=git-pull?rep
 
 http://binder.pangeo.io/v2/gh/op07n/mygenericbinder2/master?urlpath=git-pull?repo=https://github.com/alejandroklever/GrammarAnalyzer
 
+http://binder.pangeo.io/v2/gh/op07n/mygenericbinder2/master?urlpath=git-pull?repo=https://github.com/monchier/streamlit_audio
+
+
 
 
 
