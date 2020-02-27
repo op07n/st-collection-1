@@ -37,6 +37,6 @@ http://binder.pangeo.io/v2/gh/op07n/mygenericbinder2/master?urlpath=git-pull?rep
 
 http://binder.pangeo.io/v2/gh/op07n/mygenericbinder2/master?urlpath=git-pull?repo=https://github.com/aditya-jaishankar/heorku-app
 
-
+http://binder.pangeo.io/v2/gh/op07n/mygenericbinder2/master?urlpath=git-pull?repo=https://github.com/kellyamanda/examples
 
 
