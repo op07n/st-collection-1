@@ -35,6 +35,7 @@ http://binder.pangeo.io/v2/gh/op07n/mygenericbinder2/master?urlpath=git-pull?rep
 
 http://binder.pangeo.io/v2/gh/op07n/mygenericbinder2/master?urlpath=git-pull?repo=https://github.com/monchier/streamlit_audio
 
+http://binder.pangeo.io/v2/gh/op07n/mygenericbinder2/master?urlpath=git-pull?repo=https://github.com/aditya-jaishankar/heorku-app
 
 
 
