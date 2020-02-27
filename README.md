@@ -1,8 +1,8 @@
 # st-collection-1
 
-Open a terminal and type:
+Open a terminal. Use cd to go at the correct directory and type:
 
-streamlit run appname.py --server.enableCORS false
+streamlit run appname.py --server.enableCORS false   ( replace appname.py for the named used )
 
 At the url replace /terminals/1 for /proxy/8501/  to see the page
 
