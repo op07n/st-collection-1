@@ -43,3 +43,6 @@ http://binder.pangeo.io/v2/gh/op07n/mygenericbinder2/master?urlpath=git-pull?rep
 http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/devin19/pitching_dash
 
 http://binder.pangeo.io/v2/gh/op07n/mygenericbinder5/master?urlpath=git-pull?repo=https://github.com/riven314/Streamlit-SinGAN
+
+http://binder.pangeo.io/v2/gh/op07n/mygenericbinder5/master?urlpath=git-pull?repo=https://github.com/schwarzbox/RobLike
+
